@@ -15,7 +15,7 @@ The application is developed using Streamlit, featuring a user-friendly interfac
 #### Evaluation and Testing:
 Testing includes scenarios where the input content is empty, in which case the system outputs a default prompt. Users can input and retrieve text content based on the provided prompts.
 
-![image-20240409192610152](/Users/yfkj/Library/Application Support/typora-user-images/image-20240409192610152.png)
+![run_image](/Users/yfkj/PycharmProjects/VectorDatabase-Chatbot/images/run_image.png)
 
 #### Conclusion
 
